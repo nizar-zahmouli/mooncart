@@ -1,0 +1,13 @@
+export { Layout } from "../components/common/Layout";
+export { Hero } from "../components/hero/Hero";
+export { Home } from "../screen/home/Home";
+export { Product } from "../screen/product/Product";
+export { ProductCard } from "../components/product/ProductCard";
+export { ShippingInfo } from "../components/product/ShippingInfo";
+export { Banner } from "../components/product/Banner";
+export { ProductSlide } from "../components/product/ProductSlide";
+export { Testimonials } from "../components/hero/Testimonials";
+export { InstagramPost } from "../components/hero/InstagramPost";
+export { Shop } from "../screen/shop/Shop";
+export { ProductDetails } from "../screen/product/ProductDetails";
+export { CartPage } from "../screen/CartPage"
